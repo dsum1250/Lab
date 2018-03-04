@@ -13,6 +13,7 @@ namespace Foo
             // Someone rewrote code
             // Second line
             // Third Line
+            // Fourth Line
         }
     }
 }
