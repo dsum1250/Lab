@@ -10,7 +10,7 @@ namespace Foo
     {
         static void Main(string[] args)
         {
-            // Someone added code
+            // Someone edited code
         }
     }
 }
