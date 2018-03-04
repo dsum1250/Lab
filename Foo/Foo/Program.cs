@@ -14,6 +14,7 @@ namespace Foo
             // Second line
             // Third Line
             // Fourth Line
+            // Fifth Line
         }
     }
 }
