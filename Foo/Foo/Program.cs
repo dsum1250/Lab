@@ -19,6 +19,7 @@ namespace Foo
             // Seventh Line
             // Eighth Line
             // Ninth Line
+            // Master change
         }
 
         public int Add(int x1, int x2)
