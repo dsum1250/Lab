@@ -19,6 +19,8 @@ namespace Foo
             // Seventh Line
             // Eighth Line
             // Ninth Line
+
+            // Call new Feature 2
         }
 
         public int Add(int x1, int x2)
@@ -27,5 +29,6 @@ namespace Foo
 
             return sum;
         }
+
     }
 }
